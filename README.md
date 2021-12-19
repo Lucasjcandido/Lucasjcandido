@@ -8,7 +8,7 @@
 - Hard Skills: C#, MySQL, HTML, CSS, Bootstrap and JavaScript.
 - Currently learning React.
 - Tools: VSCode, Figma, Github and Git.
-- Acquirements: UX/UI Design, Marketing and Agile methodologies.
+- Acquirements: <a href="https://www.behance.net/lucasjcandido">UX/UI - Graphic Design</a>, Marketing and Agile methodologies.
 - Reach me: lucas.jcandido@outlook.com 
 </br> <br>
 <p align="left">
