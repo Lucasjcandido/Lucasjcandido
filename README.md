@@ -1,4 +1,4 @@
-<img src="img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="img/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 <img src='https://avataaars.io/?avatarStyle=Transparent&topType=WinterHat4&accessoriesType=Prescription02&hatColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=Hoodie&clotheColor=Black&eyeType=Happy&eyebrowType=UpDown&mouthType=Smile&skinColor=Brown' min-width="100px" max-width="100px" width="100px" align="left" alt="Meu avatar"
 />
 
