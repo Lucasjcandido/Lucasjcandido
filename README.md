@@ -3,20 +3,16 @@
 />
 
 <br><br>
-# Hey, i'm Lucas!  👋😃
+# Olá, sou Lucas!  👋😃
 
-**I'm a Systems Analysis and Development student in love with technology.**
+**Programador web e estudante de Análise e Desenvolvimento de sistemas.**
 
-- Hard Skills: C#, MySQL, HTML, CSS, Bootstrap and JavaScript.
+- Hard Skills:<a href="https://github.com/Lucasjcandido/projects"> Projects</a>.
 - Currently learning React.
 - Tools: VSCode, Figma, Github and Git.
-- Acquirements: <a href="https://www.behance.net/lucasjcandido">UX/UI - Graphic Design</a>, Marketing and Agile methodologies.
+- Acquirements: <a href="https://www.behance.net/lucasjcandido">UX/UI - Graphic Design</a> and Agile methodologies.
 - Reach me: lucas.jcandido@outlook.com 
 </br> <br>
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucasjcandido/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasjcandido/" /></a>
 
-  <a href="https://www.instagram.com/luccs.jc/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luccs.jc/"/></a>
-</p>  
+<a href="https://www.linkedin.com/in/lucasjcandido/" alt="Linkedin">
+<img align="left" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasjcandido/" /></a>
