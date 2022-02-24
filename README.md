@@ -3,14 +3,9 @@
 <br><br>
 # Olá, sou Lucas!  👋😃
 
-**Programador web e estudante de Análise e Desenvolvimento de sistemas.**
+**Desenvolvedor de Software, apaixonado por Tecnologia.**
 
-- Hard Skills:<a href="https://github.com/Lucasjcandido/projects"> Projects</a>.
-- Currently learning React.
-- Tools: VSCode, Figma, Github and Git.
-- Acquirements: <a href="https://www.behance.net/lucasjcandido">UX/UI - Graphic Design</a> and Agile methodologies.
-- Reach me: lucas.jcandido@outlook.com 
-</br> <br>
-
-<a href="https://www.linkedin.com/in/lucasjcandido/" alt="Linkedin">
-<img align="left" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasjcandido/" /></a>
+- Meet my projects:<a href="https://github.com/Lucasjcandido/projects"> Projects</a>. :octocat:
+- Currently learning C#. 👨‍💻
+- Tools: VSCode, Figma, Github and Git. 🛠️
+- Acquirements: Video Edit, <a href="https://www.behance.net/lucasjcandido">UI and Graphic Design</a>. 🎨💻
