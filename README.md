@@ -1,9 +1,9 @@
 <img src="img/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 <br><br>
-# Olá, sou Lucas!  👋😃
+# Hey, i'm Lucas!  👋
 
-**Desenvolvedor de Software, apaixonado por Tecnologia.**
+**A Software Developer who loves challenges and solving problems, also creating amazing products and impacting lives.**
 
 - Meet my projects:<a href="https://github.com/Lucasjcandido/projects"> Projects</a>. :octocat:
 - Currently learning C#. 👨‍💻
